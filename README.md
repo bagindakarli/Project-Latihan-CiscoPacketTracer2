@@ -1,2 +1,2 @@
 # Project-Latihan-CiscoPacketTracer2
-WAN (Wide-Area-Network) 2017
+Kumpulan dari rancangan/denah jaringan komputer untuk latihan mata pelajaran WAN (Wide-Area-Network) 2017. Desain dibuat menggunakan Cisco Packet Tracer.

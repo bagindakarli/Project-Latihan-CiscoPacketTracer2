@@ -1,0 +1,17 @@
+setting di switch
+
+Switch>enable
+Swtich# configure terminal
+Switch(config)#
+
+Switch(config)#interface range fastethernet0/1
+Switch(config)#switchport mode access
+Switch(config)#switchport voice vlan 1
+
+Switch(config)#interface range fastethernet0/2
+Switch(config)#switchport mode access
+Switch(config)#switchport voice vlan 1
+
+Switch(config)#interface range fastethernet0/3
+Switch(config)#switchport mode access
+Switch(config)#switchport voice vlan 1
